@@ -1,3 +1,1 @@
-# drishivneupane.com.np
-project of me
-hloknvwfe
+[Link to the other file](./other_zenith.md)
